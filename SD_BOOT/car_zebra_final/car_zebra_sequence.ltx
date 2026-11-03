@@ -1,0 +1,295 @@
+{
+    "ltx_root": {
+        "version": 4,
+        "minor": 0,
+        "ltx_data": [
+            {
+                "name": "EDA_PROBESET",
+                "active": true,
+                "debug_cores": [
+                    {
+                        "type": "XSDB_V3",
+                        "name": "dbg_hub",
+                        "spec": "labtools_xsdbm_v3",
+                        "clk_input_freq_hz": "125000003"
+                    },
+                    {
+                        "type": "ILA_V3",
+                        "name": "stability_ila",
+                        "spec": "labtools_ila_v6",
+                        "core_location": {
+                            "user_chain": 1,
+                            "slave_index": 0,
+                            "bscan_switch_index": 0
+                        },
+                        "uuid": "70644f3063f7524ebbd155f10a3c831d",
+                        "pins": [
+                            {
+                                "name": "probe0",
+                                "id": 0,
+                                "type": "DATA_TRIGGER",
+                                "direction": "IN",
+                                "isVector": false,
+                                "leftIndex": 0,
+                                "rightIndex": 0,
+                                "portIndex": 0,
+                                "nets": [
+                                    {
+                                        "name": "clock_system_i/car/inst/car_logic/vision/configured",
+                                        "isBus": false
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "probe1",
+                                "id": 1,
+                                "type": "DATA_TRIGGER",
+                                "direction": "IN",
+                                "isVector": false,
+                                "leftIndex": 0,
+                                "rightIndex": 0,
+                                "portIndex": 1,
+                                "nets": [
+                                    {
+                                        "name": "clock_system_i/car/inst/car_logic/vision/failed",
+                                        "isBus": false
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "probe2",
+                                "id": 2,
+                                "type": "DATA_TRIGGER",
+                                "direction": "IN",
+                                "isVector": false,
+                                "leftIndex": 0,
+                                "rightIndex": 0,
+                                "portIndex": 2,
+                                "nets": [
+                                    {
+                                        "name": "clock_system_i/car/inst/car_logic/camera_live",
+                                        "isBus": false
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "probe3",
+                                "id": 3,
+                                "type": "DATA_TRIGGER",
+                                "direction": "IN",
+                                "isVector": false,
+                                "leftIndex": 0,
+                                "rightIndex": 0,
+                                "portIndex": 3,
+                                "nets": [
+                                    {
+                                        "name": "clock_system_i/car/inst/car_logic/camera_green",
+                                        "isBus": false
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "probe4",
+                                "id": 4,
+                                "type": "DATA_TRIGGER",
+                                "direction": "IN",
+                                "isVector": false,
+                                "leftIndex": 0,
+                                "rightIndex": 0,
+                                "portIndex": 4,
+                                "nets": [
+                                    {
+                                        "name": "clock_system_i/car/inst/car_logic/vision/display/locked",
+                                        "isBus": false
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "probe5",
+                                "id": 5,
+                                "type": "DATA_TRIGGER",
+                                "direction": "IN",
+                                "isVector": false,
+                                "leftIndex": 0,
+                                "rightIndex": 0,
+                                "portIndex": 5,
+                                "nets": [
+                                    {
+                                        "name": "clock_system_i/car/inst/car_logic/reset_n",
+                                        "isBus": false
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "probe6",
+                                "id": 6,
+                                "type": "DATA_TRIGGER",
+                                "direction": "IN",
+                                "isVector": false,
+                                "leftIndex": 0,
+                                "rightIndex": 0,
+                                "portIndex": 6,
+                                "nets": [
+                                    {
+                                        "name": "clock_system_i/car/inst/car_logic/core/enabled",
+                                        "isBus": false
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "probe7",
+                                "id": 7,
+                                "type": "DATA_TRIGGER",
+                                "direction": "IN",
+                                "isVector": false,
+                                "leftIndex": 0,
+                                "rightIndex": 0,
+                                "portIndex": 7,
+                                "nets": [
+                                    {
+                                        "name": "clock_system_i/car/inst/car_logic/core/motor_allow",
+                                        "isBus": false
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "probe8",
+                                "id": 8,
+                                "type": "DATA_TRIGGER",
+                                "direction": "IN",
+                                "isVector": false,
+                                "leftIndex": 0,
+                                "rightIndex": 0,
+                                "portIndex": 8,
+                                "nets": [
+                                    {
+                                        "name": "clock_system_i/car/inst/car_logic/core/distance_valid",
+                                        "isBus": false
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "probe9",
+                                "id": 9,
+                                "type": "DATA_TRIGGER",
+                                "direction": "IN",
+                                "isVector": true,
+                                "leftIndex": 0,
+                                "rightIndex": 15,
+                                "portIndex": 9,
+                                "nets": [
+                                    {
+                                        "name": "clock_system_i/car/inst/car_logic/core/distance",
+                                        "isBus": true,
+                                        "subnets": [
+                                            {
+                                                "name": "clock_system_i/car/inst/car_logic/core/distance[15]"
+                                            },
+                                            {
+                                                "name": "clock_system_i/car/inst/car_logic/core/distance[14]"
+                                            },
+                                            {
+                                                "name": "clock_system_i/car/inst/car_logic/core/distance[13]"
+                                            },
+                                            {
+                                                "name": "clock_system_i/car/inst/car_logic/core/distance[12]"
+                                            },
+                                            {
+                                                "name": "clock_system_i/car/inst/car_logic/core/distance[11]"
+                                            },
+                                            {
+                                                "name": "clock_system_i/car/inst/car_logic/core/distance[10]"
+                                            },
+                                            {
+                                                "name": "clock_system_i/car/inst/car_logic/core/distance[9]"
+                                            },
+                                            {
+                                                "name": "clock_system_i/car/inst/car_logic/core/distance[8]"
+                                            },
+                                            {
+                                                "name": "clock_system_i/car/inst/car_logic/core/distance[7]"
+                                            },
+                                            {
+                                                "name": "clock_system_i/car/inst/car_logic/core/distance[6]"
+                                            },
+                                            {
+                                                "name": "clock_system_i/car/inst/car_logic/core/distance[5]"
+                                            },
+                                            {
+                                                "name": "clock_system_i/car/inst/car_logic/core/distance[4]"
+                                            },
+                                            {
+                                                "name": "clock_system_i/car/inst/car_logic/core/distance[3]"
+                                            },
+                                            {
+                                                "name": "clock_system_i/car/inst/car_logic/core/distance[2]"
+                                            },
+                                            {
+                                                "name": "clock_system_i/car/inst/car_logic/core/distance[1]"
+                                            },
+                                            {
+                                                "name": "clock_system_i/car/inst/car_logic/core/distance[0]"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "probe10",
+                                "id": 10,
+                                "type": "DATA_TRIGGER",
+                                "direction": "IN",
+                                "isVector": false,
+                                "leftIndex": 0,
+                                "rightIndex": 0,
+                                "portIndex": 10,
+                                "nets": [
+                                    {
+                                        "name": "clock_system_i/car/inst/car_logic/speech/clear_armed",
+                                        "isBus": false
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "probe11",
+                                "id": 11,
+                                "type": "DATA_TRIGGER",
+                                "direction": "IN",
+                                "isVector": true,
+                                "leftIndex": 0,
+                                "rightIndex": 5,
+                                "portIndex": 11,
+                                "nets": [
+                                    {
+                                        "name": "clock_system_i/car/inst/car_logic/voice_gpio",
+                                        "isBus": true,
+                                        "subnets": [
+                                            {
+                                                "name": "clock_system_i/car/inst/car_logic/voice_gpio[5]"
+                                            },
+                                            {
+                                                "name": "clock_system_i/car/inst/car_logic/voice_gpio[4]"
+                                            },
+                                            {
+                                                "name": "clock_system_i/car/inst/car_logic/voice_gpio[3]"
+                                            },
+                                            {
+                                                "name": "clock_system_i/car/inst/car_logic/voice_gpio[2]"
+                                            },
+                                            {
+                                                "name": "clock_system_i/car/inst/car_logic/voice_gpio[1]"
+                                            },
+                                            {
+                                                "name": "clock_system_i/car/inst/car_logic/voice_gpio[0]"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

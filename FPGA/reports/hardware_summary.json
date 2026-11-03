@@ -1,0 +1,38 @@
+{
+  "clock_system_i/car/inst/car_logic/vision/configured": [
+    "1"
+  ],
+  "clock_system_i/car/inst/car_logic/vision/failed": [
+    "0"
+  ],
+  "clock_system_i/car/inst/car_logic/camera_live": [
+    "1"
+  ],
+  "clock_system_i/car/inst/car_logic/camera_green": [
+    "0"
+  ],
+  "clock_system_i/car/inst/car_logic/vision/display/locked": [
+    "1"
+  ],
+  "clock_system_i/car/inst/car_logic/reset_n": [
+    "1"
+  ],
+  "clock_system_i/car/inst/car_logic/core/enabled": [
+    "0"
+  ],
+  "clock_system_i/car/inst/car_logic/core/motor_allow": [
+    "0"
+  ],
+  "clock_system_i/car/inst/car_logic/core/distance_valid": [
+    "0"
+  ],
+  "clock_system_i/car/inst/car_logic/core/distance[15:0]": [
+    "0000"
+  ],
+  "clock_system_i/car/inst/car_logic/speech/clear_armed": [
+    "0"
+  ],
+  "clock_system_i/car/inst/car_logic/voice_gpio[5:0]": [
+    "00"
+  ]
+}

@@ -1,0 +1,452 @@
+[
+  {
+    "source": "car_zebra_sequence_20261031\\src\\car_bd_shell.v",
+    "path": "FPGA/src/car_bd_shell.v",
+    "sha256": "34e9d74cb47656b8d7ab3f4d04dcac5a56ddaf8277c555478df4590e22c8d871"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\src\\line_ultrasonic_stop_top.v",
+    "path": "FPGA/src/line_ultrasonic_stop_top.v",
+    "sha256": "34cdac812ea0bde624377006aa49690b9a16e77b1b9e2669491137fbb653eec5"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\src\\camera\\dvp_rgb565_capture.v",
+    "path": "FPGA/src/camera/dvp_rgb565_capture.v",
+    "sha256": "97fa1b1191fef33084ac46460135c4a9d6a1de10e2e41c27f04ea52ff27f8a64"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\src\\camera\\ov5640_frontend.v",
+    "path": "FPGA/src/camera/ov5640_frontend.v",
+    "sha256": "f0d1ec659f7816b3d93a97ba0d8a5d22ddd983ee21f677df63b1ef3b995f476b"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\src\\camera\\ov5640_init.v",
+    "path": "FPGA/src/camera/ov5640_init.v",
+    "sha256": "e513017e0568a2ae105edfbc36da8b7245f4f1af653b87eebc7dcbf446b98bcc"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\src\\camera\\ov5640_reg_rom.v",
+    "path": "FPGA/src/camera/ov5640_reg_rom.v",
+    "sha256": "7f9949def040e1c24d6d216e807bda9bb294a0b87ba77e8ffe91597e8b0f8dc1"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\src\\camera\\sccb_master.v",
+    "path": "FPGA/src/camera/sccb_master.v",
+    "sha256": "33bff73678da27184c9eddfbb91d0020bc550ce1a02a302095e70cc0ca673b14"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\src\\camera\\traffic_camera.v",
+    "path": "FPGA/src/camera/traffic_camera.v",
+    "sha256": "787fc741596122a1fad3d815e8ae929fc6a6e016aac8462afce743456f244973"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\src\\camera\\traffic_color_gate.v",
+    "path": "FPGA/src/camera/traffic_color_gate.v",
+    "sha256": "d9cbcba4c877f6abab6cddc55eab454053c5297f5c868366b4ccad81ac49edea"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\src\\camera\\traffic_light_detector.v",
+    "path": "FPGA/src/camera/traffic_light_detector.v",
+    "sha256": "27d05d36983cc8420dce1fc7263f0b1143030a0b4c55e995ba1ab4d3d838c7ef"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\src\\core\\alarm_output.v",
+    "path": "FPGA/src/core/alarm_output.v",
+    "sha256": "32008abf9fe7201b8c61aa5438609d27d62a368aee17f3b7bd32455e230fd636"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\src\\core\\asrpro_events.v",
+    "path": "FPGA/src/core/asrpro_events.v",
+    "sha256": "d843506166cabb3d2c6878a562106b3d13fc9e63e58757030aae7ae0f3c13c86"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\src\\core\\buzzer_driver.v",
+    "path": "FPGA/src/core/buzzer_driver.v",
+    "sha256": "38ef50e3115d56693aeed839f541d6fc383ddd06f063a97b072d7fcbe66d231f"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\src\\core\\car_curve_top.v",
+    "path": "FPGA/src/core/car_curve_top.v",
+    "sha256": "694598f533826b146fd380379b6055cf0a3cfb04f0bc0b5549a77f08ac956054"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\src\\core\\car_voice_controller.v",
+    "path": "FPGA/src/core/car_voice_controller.v",
+    "sha256": "bbaeb2004abf7293e48c8a486761e3e30311e377c41885b77a3b8ef172d754ef"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\src\\core\\encoder_reader.v",
+    "path": "FPGA/src/core/encoder_reader.v",
+    "sha256": "41614db7badc268f8ab560eaf5ef6c06e512d0dda53ec6c9fedf22297cb49bb1"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\src\\core\\input_conditioner.v",
+    "path": "FPGA/src/core/input_conditioner.v",
+    "sha256": "b293626bbd254f749e6489dff8a1a7f15cdd953cc87577756cd7744d3fd817e1"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\src\\core\\line_curve_controller.v",
+    "path": "FPGA/src/core/line_curve_controller.v",
+    "sha256": "8042da046d6d108e15c0001772bd53b77982e5776508b39ea00996701d5979c7"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\src\\core\\motor_driver.v",
+    "path": "FPGA/src/core/motor_driver.v",
+    "sha256": "df4e802323d24603af0069e8f285b6511644f69b831ce1f92782cd624f415862"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\src\\core\\reset_sync.v",
+    "path": "FPGA/src/core/reset_sync.v",
+    "sha256": "f10242d8880c2753412f4196eb9327a7579e3f463e822f1134d90cb69e5b2df8"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\src\\core\\speed_odometry.v",
+    "path": "FPGA/src/core/speed_odometry.v",
+    "sha256": "9174e11e1f9035fc2773222ed6f1177526ed2fa498c50250f1b8df26c3eabf29"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\src\\core\\telemetry_tx.v",
+    "path": "FPGA/src/core/telemetry_tx.v",
+    "sha256": "6aec7c04a9e3841cbe82921ab862a842da814f87b7dfa6d3d79bbf131b4e239d"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\src\\core\\uart_tx.v",
+    "path": "FPGA/src/core/uart_tx.v",
+    "sha256": "b085de1f53e8581976163e1fb42fef6294b2e8e7450f78177ed640dc20faaf72"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\src\\core\\ultrasonic.v",
+    "path": "FPGA/src/core/ultrasonic.v",
+    "sha256": "4fb9cc25a7c9d2bfa3010c61d1b3e6af40ffb5042886d65b79d78a297ac7b402"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\src\\core\\ultrasonic_guard.v",
+    "path": "FPGA/src/core/ultrasonic_guard.v",
+    "sha256": "3eb062f72ea1ddac27de0aa82f358f70fe90cf439ad1970c61f89860fed9fbe1"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\src\\video\\hdmi_preview.v",
+    "path": "FPGA/src/video/hdmi_preview.v",
+    "sha256": "7332fc2db34174ce2ee824ff2b477647547b6d19d1460baeb4dad8a2eb78aaae"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\constraints\\line_straight.xdc",
+    "path": "FPGA/constraints/line_straight.xdc",
+    "sha256": "4959b22fc210f13c951ed55b45708e6a4d8552bd1b5b2ecb852ca26538734d0c"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\scripts\\build.tcl",
+    "path": "FPGA/scripts/build.tcl",
+    "sha256": "bcbb5444b2aef8675af2435c0033ea3511d14a95c2b30340eb34918b70b5d316"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\scripts\\capture_status.tcl",
+    "path": "FPGA/scripts/capture_status.tcl",
+    "sha256": "62fb42d798f3ead38cb18af6c6a938db6f2262c7722ef0399ec4dae5ea9df80f"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\scripts\\hold_ps.tcl",
+    "path": "FPGA/scripts/hold_ps.tcl",
+    "sha256": "39499e36d6326432e6d8e3648a7af10f87a31479b1726713bcd883ef789926d5"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\scripts\\ports.tcl",
+    "path": "FPGA/scripts/ports.tcl",
+    "sha256": "97db219ab9ad1fd83b461885ddd7fba722824b6cfe72f4857d7a8469d72029b6"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\scripts\\program.ps1",
+    "path": "FPGA/scripts/program.ps1",
+    "sha256": "5257aabd10a8e14ee960a14494ff2ebe610e3493f26ca8adcf84d3e17a0009c7"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\scripts\\program.tcl",
+    "path": "FPGA/scripts/program.tcl",
+    "sha256": "891869e458d43d73e2ad257ba560cee966c5c4f12170bdebee7ee36166433f91"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\scripts\\read_fault_ps.tcl",
+    "path": "FPGA/scripts/read_fault_ps.tcl",
+    "sha256": "30343c671737d21beb8f5bbdd6a388ac57af305cf0347fea5555cebdfcd8433d"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\scripts\\source_files.tcl",
+    "path": "FPGA/scripts/source_files.tcl",
+    "sha256": "e32b3b97df632da30ca33e600116794c4c917faa417758dbc20ef1d95c92baab"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\scripts\\start_ps_clock.tcl",
+    "path": "FPGA/scripts/start_ps_clock.tcl",
+    "sha256": "31ee1c06e250c2f3a816a9193b00066c855d672f7d102babbe5cb84a2168acd0"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\scripts\\test.ps1",
+    "path": "FPGA/scripts/test.ps1",
+    "sha256": "d6cbafc123822e0e4d1d80be973b9a04d7ea585ca74a2bcacf635d968e8007c9"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\sim\\hdmi_preview_stub.v",
+    "path": "FPGA/sim/hdmi_preview_stub.v",
+    "sha256": "9b4bba478635133cd013d4df95a19b134f8196449aa8b9cf95302e97919dfe75"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\sim\\tb_car_voice.sv",
+    "path": "FPGA/sim/tb_car_voice.sv",
+    "sha256": "087c78b58e3d342f5d360795e1962293c777cc833a8303fac85b5f4718409754"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\sim\\tb_color_gate.sv",
+    "path": "FPGA/sim/tb_color_gate.sv",
+    "sha256": "0e12eba97eacb85c833e7a58efa875753f22e41845a97617e40340876c77ac07"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\sim\\tb_curve_equivalence.sv",
+    "path": "FPGA/sim/tb_curve_equivalence.sv",
+    "sha256": "ae1df2b36417c6124bf72e4e08731119ba6f2a7b4ee14c230a8c2b59c6343570"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\sim\\tb_distance_buzzer.sv",
+    "path": "FPGA/sim/tb_distance_buzzer.sv",
+    "sha256": "bf5bc15b5e3cd4be8097dc6c8aa4cc19e312fd3211b458fba1d1f2bf6f4c6a91"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\sim\\tb_line_ultrasonic_stop.sv",
+    "path": "FPGA/sim/tb_line_ultrasonic_stop.sv",
+    "sha256": "512ce41bf9ba2da6b79965ebb520dd2ff39eddcbd51091e1669b36d4b6a20040"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\sim\\tb_rgb565_le.v",
+    "path": "FPGA/sim/tb_rgb565_le.v",
+    "sha256": "80b7347b8197ae2e750143acfa4a61983a4ca9eeb6f874bb3e553051424b513d"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\sim\\tb_traffic.v",
+    "path": "FPGA/sim/tb_traffic.v",
+    "sha256": "d16f4d295f5d291d228dab5d0c9a176f710db35bb806e68c25f046aa9f9736f4"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\sim\\tb_traffic_car.sv",
+    "path": "FPGA/sim/tb_traffic_car.sv",
+    "sha256": "68a44effe3d86d9c5c4c7ba285915dc6f4eb8d883d5d7d8cf154c65d0526c7df"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\sim\\tb_ultrasonic_filter.sv",
+    "path": "FPGA/sim/tb_ultrasonic_filter.sv",
+    "sha256": "0528eb6b4e0f744949145a55f9f3b5f93e76d7e39180d426179b966f7b6afa68"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\sim\\tb_ultrasonic_guard.sv",
+    "path": "FPGA/sim/tb_ultrasonic_guard.sv",
+    "sha256": "b3041f48f403bad9c4b7a3edfa6bbb2eceec0da7aa31f5aed54e7d3e41f54d62"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\sim\\tb_voice.sv",
+    "path": "FPGA/sim/tb_voice.sv",
+    "sha256": "f6e8f4b289719d1dcbf08a06f949225236bc322a3a13f8e7a2728b9e22ed1989"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\sim\\tb_web_telemetry.sv",
+    "path": "FPGA/sim/tb_web_telemetry.sv",
+    "sha256": "de89351c0c8384a08a13a3c75de4fca4827af35b902e736888edcbaeaa0bbdc8"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\sim\\tb_zebra_sequence.sv",
+    "path": "FPGA/sim/tb_zebra_sequence.sv",
+    "sha256": "7545648bf7fcc0ff3eafe7f401fb3ac796e526c4200285ff88170a9eb4969293"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\sim\\reference\\line_curve_controller_reference.v",
+    "path": "FPGA/sim/reference/line_curve_controller_reference.v",
+    "sha256": "de81a6fa18880b517d2f7e021b1f84d88328e9191e3425baf18f642899b79447"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\board_files\\pynq-z2\\A.0\\board.xml",
+    "path": "FPGA/board_files/pynq-z2/A.0/board.xml",
+    "sha256": "a565dcb39737d551cbbbb73c0053b973c40bb3dce2274943370d3032c0fea9ae"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\board_files\\pynq-z2\\A.0\\part0_pins.xml",
+    "path": "FPGA/board_files/pynq-z2/A.0/part0_pins.xml",
+    "sha256": "3c809473938e135a925b563b5371c8687ee05c4089376e7318c0c56524cc8a0f"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\board_files\\pynq-z2\\A.0\\preset.xml",
+    "path": "FPGA/board_files/pynq-z2/A.0/preset.xml",
+    "sha256": "18528f84aea4da503cdb3104f7706fabfb3b6ad09b78b25199cc316afa4c8cfe"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\ESP32\\GuideCarGateway\\config.h",
+    "path": "ESP32/GuideCarGateway/config.h",
+    "sha256": "e4d2bfaa09ebf8c35c83566efb8c3288977d24ee909ae77f6cdbfaf9640f4131"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\ESP32\\GuideCarGateway\\dog_pages.h",
+    "path": "ESP32/GuideCarGateway/dog_pages.h",
+    "sha256": "6a7498945caeca8e69aeb9c3f0c5896827f4449eb82534a5d04a4a0bbe290ef9"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\ESP32\\GuideCarGateway\\GuideCarGateway.ino",
+    "path": "ESP32/GuideCarGateway/GuideCarGateway.ino",
+    "sha256": "f022c5123a354733e412e720db84298f97520069ae1793932e478072801218dd"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\ESP32\\GuideCarGateway\\protocol.h",
+    "path": "ESP32/GuideCarGateway/protocol.h",
+    "sha256": "e47294361fd5324df35bd911efddc6325a54eaf7ac284ae9f317a6d57dd80120"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\使用说明.md",
+    "path": "FPGA/使用说明.md",
+    "sha256": "96048386e4ce279cf5ad51df3879c6bf7d585eb6ed6c59057922cb1bed602f5e"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\验证结果.md",
+    "path": "FPGA/验证结果.md",
+    "sha256": "9b1fe22c1d0d623076a62ae15e767db8063d2ac18294fc9f7ea54edabfefb3d9"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\output\\car_zebra_sequence.bit",
+    "path": "FPGA/output/car_zebra_sequence.bit",
+    "sha256": "70c84f3180bf614b9f1cb6920568ecbddff15768561c31d027c8658e14e544a4"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\output\\car_zebra_sequence.ltx",
+    "path": "FPGA/output/car_zebra_sequence.ltx",
+    "sha256": "c84a705045bdb156203128a3002b59e6d1c283f230462e5583026e3701dd6739"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\output\\ps7_init.tcl",
+    "path": "FPGA/output/ps7_init.tcl",
+    "sha256": "8e96792db5243ffd38256b1fa9f35294b70fa2d2efa9fcac1fbe0f6ef1abe9d2"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\reports\\cdc.rpt",
+    "path": "FPGA/reports/cdc.rpt",
+    "sha256": "68d384d6ef2ff22bde9d5e402968492c92243e9758f0c3bc07e7a4665c044637"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\reports\\drc.rpt",
+    "path": "FPGA/reports/drc.rpt",
+    "sha256": "c75aabaf9a4362d62f3ac508d6be436f0a74e644876f3eae82690b18692d204b"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\reports\\hardware_summary.json",
+    "path": "FPGA/reports/hardware_summary.json",
+    "sha256": "174fb298c406e10f41814e93b5c19a76ef329a25fe1b3d6090fbbdc096c53892"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\reports\\preserved_sources.json",
+    "path": "FPGA/reports/preserved_sources.json",
+    "sha256": "fa77d9a66e1ef51417ed8f58450255cc7bb58c790125d8ff4e14e678a7bc49b3"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\reports\\tb_car_voice.log",
+    "path": "FPGA/reports/tb_car_voice.log",
+    "sha256": "11aa5f3bcd6654e61b9d3b4fa4a6ca2b43dee3c018784e4e0d98bc3e37edec9a"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\reports\\tb_color_gate.log",
+    "path": "FPGA/reports/tb_color_gate.log",
+    "sha256": "95bb6b04a86c2c4be2989a3d0a57df312e6c135da23fd09627af3f88008e1bac"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\reports\\tb_curve_equivalence.log",
+    "path": "FPGA/reports/tb_curve_equivalence.log",
+    "sha256": "7ed82cdcc6149a884ac8036a8851b0a787260080a3cffa3c69b7d1c61ec64b30"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\reports\\tb_distance_buzzer.log",
+    "path": "FPGA/reports/tb_distance_buzzer.log",
+    "sha256": "c585989dd1eafc2875f40a3a48a4d1ee389c2608a5f3906c6baf11238f977e8e"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\reports\\tb_line_ultrasonic_stop.log",
+    "path": "FPGA/reports/tb_line_ultrasonic_stop.log",
+    "sha256": "23d062cf1a118e978db8398212086cfd29d4c039cf63e5aabc4e86ca1c40cc57"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\reports\\tb_rgb565_le.log",
+    "path": "FPGA/reports/tb_rgb565_le.log",
+    "sha256": "eee043964ba219478a7f661e49b9d1f24400c0fc03f08dabff6e025bfba06fca"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\reports\\tb_traffic.log",
+    "path": "FPGA/reports/tb_traffic.log",
+    "sha256": "84cf353c5ef5af77994c98128c17d03b1d7bc7d23043dced6275d38a2dc7ba90"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\reports\\tb_traffic_car.log",
+    "path": "FPGA/reports/tb_traffic_car.log",
+    "sha256": "bc520de59b55313fbc4df74923128fb074efc758cd9f0cb0cae42a705c33ca98"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\reports\\tb_ultrasonic_filter.log",
+    "path": "FPGA/reports/tb_ultrasonic_filter.log",
+    "sha256": "b5b71654f9023f8cf8a723b2aa1a8fffc7160f1674165171d2bdc6ecbd001864"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\reports\\tb_ultrasonic_guard.log",
+    "path": "FPGA/reports/tb_ultrasonic_guard.log",
+    "sha256": "6ab545b14f75920620483e6d4686180f78d1b1cb1b6e1edd6bb47cc0c6f0f994"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\reports\\tb_voice.log",
+    "path": "FPGA/reports/tb_voice.log",
+    "sha256": "1501b21d771da2a614ff4bb3160982090179c70c157ad16ec9b6ae87f334197f"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\reports\\tb_web_telemetry.log",
+    "path": "FPGA/reports/tb_web_telemetry.log",
+    "sha256": "6862da923852a90b1f6a49f3bb896b7afb594323e9c2bdeb25c1bab27110112a"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\reports\\tb_zebra_sequence.log",
+    "path": "FPGA/reports/tb_zebra_sequence.log",
+    "sha256": "0519251f28f382e1ab04988d4726740db3652e34db7c76d2934a1b7782cfc209"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\reports\\timing_summary.rpt",
+    "path": "FPGA/reports/timing_summary.rpt",
+    "sha256": "7b6e67fc4751bab7a0d8b35e1971ac70459800d7874ca9be18560bbc99c7fe87"
+  },
+  {
+    "source": "car_zebra_sequence_20261031\\reports\\utilization.rpt",
+    "path": "FPGA/reports/utilization.rpt",
+    "sha256": "e795b87959426fa402cbe04195f2c76429713b2ab26801175e08939f7b383b8d"
+  },
+  {
+    "source": "sd_boot\\zebra_final_update\\boot.py",
+    "path": "SD_BOOT/boot.py",
+    "sha256": "11df7b754da03df0da2695eeb328e386de86203ea6f05f2e9025a65efe57e7fe"
+  },
+  {
+    "source": "sd_boot\\zebra_final_update\\SD卡使用说明.md",
+    "path": "SD_BOOT/SD卡使用说明.md",
+    "sha256": "deeb5cf9ede4a5f53469d49949adac0a4ec5904248b7eb6fcb51389f51ee9bdb"
+  },
+  {
+    "source": "sd_boot\\zebra_final_update\\car_zebra_final\\car_zebra_sequence.bit",
+    "path": "SD_BOOT/car_zebra_final/car_zebra_sequence.bit",
+    "sha256": "70c84f3180bf614b9f1cb6920568ecbddff15768561c31d027c8658e14e544a4"
+  },
+  {
+    "source": "sd_boot\\zebra_final_update\\car_zebra_final\\car_zebra_sequence.ltx",
+    "path": "SD_BOOT/car_zebra_final/car_zebra_sequence.ltx",
+    "sha256": "c84a705045bdb156203128a3002b59e6d1c283f230462e5583026e3701dd6739"
+  },
+  {
+    "source": "sd_boot\\zebra_final_update\\car_zebra_final\\manifest.json",
+    "path": "SD_BOOT/car_zebra_final/manifest.json",
+    "sha256": "1d5248f7b3bab62cebbc87387db319f8d27e5b7fa5e4ae37cf4aff7539354f7f"
+  },
+  {
+    "source": "多模态感知智能导盲小车技术文档.pdf",
+    "path": "docs/多模态感知智能导盲小车技术文档.pdf",
+    "sha256": "59cf27faae08642401cd68081e3a79cca92ec21c90865702fd9062d896c6a688"
+  },
+  {
+    "source": "FPGA国赛技术文档.docx",
+    "path": "docs/FPGA国赛技术文档.docx",
+    "sha256": "bf25fc516f91c53c8a9b0a3a74271182a16a0b6e2e9a44c3e61ae6b4e8ea487f"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "version": "car_zebra_sequence_20261031_sd",
+  "bitfile": "car_zebra_sequence.bit",
+  "sha256": "70c84f3180bf614b9f1cb6920568ecbddff15768561c31d027c8658e14e544a4",
+  "debugfile": "car_zebra_sequence.ltx",
+  "debug_sha256": "c84a705045bdb156203128a3002b59e6d1c283f230462e5583026e3701dd6739",
+  "fclk0_mhz": 125,
+  "zebra_dwell_seconds": 1.5,
+  "camera_swap_bytes": 1,
+  "trial_limit_seconds": 20,
+  "traffic_straight_seconds": 3,
+  "motors_auto_start": false
+}

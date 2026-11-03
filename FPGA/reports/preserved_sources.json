@@ -1,0 +1,67 @@
+[
+  {
+    "file": "src\\camera\\dvp_rgb565_capture.v",
+    "unchanged": true,
+    "sha256": "97fa1b1191fef33084ac46460135c4a9d6a1de10e2e41c27f04ea52ff27f8a64"
+  },
+  {
+    "file": "src\\camera\\ov5640_frontend.v",
+    "unchanged": true,
+    "sha256": "f0d1ec659f7816b3d93a97ba0d8a5d22ddd983ee21f677df63b1ef3b995f476b"
+  },
+  {
+    "file": "src\\camera\\ov5640_init.v",
+    "unchanged": true,
+    "sha256": "e513017e0568a2ae105edfbc36da8b7245f4f1af653b87eebc7dcbf446b98bcc"
+  },
+  {
+    "file": "src\\camera\\ov5640_reg_rom.v",
+    "unchanged": true,
+    "sha256": "7f9949def040e1c24d6d216e807bda9bb294a0b87ba77e8ffe91597e8b0f8dc1"
+  },
+  {
+    "file": "src\\camera\\sccb_master.v",
+    "unchanged": true,
+    "sha256": "33bff73678da27184c9eddfbb91d0020bc550ce1a02a302095e70cc0ca673b14"
+  },
+  {
+    "file": "src\\camera\\traffic_camera.v",
+    "unchanged": true,
+    "sha256": "787fc741596122a1fad3d815e8ae929fc6a6e016aac8462afce743456f244973"
+  },
+  {
+    "file": "src\\camera\\traffic_color_gate.v",
+    "unchanged": true,
+    "sha256": "d9cbcba4c877f6abab6cddc55eab454053c5297f5c868366b4ccad81ac49edea"
+  },
+  {
+    "file": "src\\camera\\traffic_light_detector.v",
+    "unchanged": true,
+    "sha256": "27d05d36983cc8420dce1fc7263f0b1143030a0b4c55e995ba1ab4d3d838c7ef"
+  },
+  {
+    "file": "src\\video\\hdmi_preview.v",
+    "unchanged": true,
+    "sha256": "7332fc2db34174ce2ee824ff2b477647547b6d19d1460baeb4dad8a2eb78aaae"
+  },
+  {
+    "file": "ESP32\\GuideCarGateway\\config.h",
+    "unchanged": true,
+    "sha256": "e4d2bfaa09ebf8c35c83566efb8c3288977d24ee909ae77f6cdbfaf9640f4131"
+  },
+  {
+    "file": "ESP32\\GuideCarGateway\\dog_pages.h",
+    "unchanged": true,
+    "sha256": "6a7498945caeca8e69aeb9c3f0c5896827f4449eb82534a5d04a4a0bbe290ef9"
+  },
+  {
+    "file": "ESP32\\GuideCarGateway\\GuideCarGateway.ino",
+    "unchanged": true,
+    "sha256": "f022c5123a354733e412e720db84298f97520069ae1793932e478072801218dd"
+  },
+  {
+    "file": "ESP32\\GuideCarGateway\\protocol.h",
+    "unchanged": true,
+    "sha256": "e47294361fd5324df35bd911efddc6325a54eaf7ac284ae9f317a6d57dd80120"
+  }
+]

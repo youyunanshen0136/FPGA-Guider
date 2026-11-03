@@ -1,0 +1,31 @@
+#-----------------------------------------------------------
+# xsim v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Sat Oct 31 22:31:09 2026
+# Process ID: 28944
+# Current directory: D:/CodexData/migration-20261025/projects/PLD/car_zebra_sequence_20261031/build/sim
+# Command line: xsim.exe -log D:\CodexData\migration-20261025\projects\PLD\car_zebra_sequence_20261031\reports\tb_color_gate.log -mode tcl -source {xsim.dir/tb_color_gate/xsim_script.tcl}
+# Log file: D:/CodexData/migration-20261025/projects/PLD/car_zebra_sequence_20261031/reports/tb_color_gate.log
+# Journal file: D:/CodexData/migration-20261025/projects/PLD/car_zebra_sequence_20261031/build/sim\xsim.jou
+# Running On        :Liurui
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :26200
+# Processor Detail  :Intel(R) Core(TM) Ultra 5 125H
+# CPU Frequency     :2995 MHz
+# CPU Physical cores:14
+# CPU Logical cores :18
+# Host memory       :16666 MB
+# Swap memory       :9126 MB
+# Total Virtual     :25793 MB
+# Available Virtual :5365 MB
+#-----------------------------------------------------------
+source xsim.dir/tb_color_gate/xsim_script.tcl
+# xsim {tb_color_gate} -autoloadwcfg -runall
+Time resolution is 1 ps
+run -all
+PASS tb_color_gate: full raster corners, square/solid colors, green confirmation, immediate red/unknown/bad stop, stopped PCLK
+$finish called at time : 33124542 ns : File "D:/CodexData/migration-20261025/projects/PLD/car_zebra_sequence_20261031/sim/tb_color_gate.sv" Line 62
+exit
+INFO: [Common 17-206] Exiting xsim at Sat Oct 31 22:31:14 2026...
